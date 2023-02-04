@@ -1,0 +1,23 @@
+.btn-container {
+    display: block;
+    width: fit-content;
+    margin: auto;
+    align-items: center;
+}
+
+#draw-card {
+    border: 2px solid black;
+}
+
+#deck-container {
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+
+#deck-container .card {
+
+    width: 100%;
+    height: 100%
+
+}
